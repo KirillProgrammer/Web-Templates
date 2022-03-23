@@ -3,4 +3,6 @@
 ### Tailwind
 Template with gulp and tailwind scss
 
-### Without tailwind
+### Gulp + scss only without tailwind
+
+### Gulp + Stylus
